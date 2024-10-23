@@ -45,7 +45,7 @@ Antes de começar, você precisará ter instalado:
 
 ├── sync.js          # Script para sincronizar o modelo com o banco de dados
 
-└── crud.js          # Operações CRUD
+└── userController.js          # Operações CRUD
 
 ## Uso
 
